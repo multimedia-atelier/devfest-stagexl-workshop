@@ -1,0 +1,6 @@
+name: devfest_2014_stageXL
+author: +TomasZverina
+description: Workshop o StageXL
+dependencies:
+  browser: any
+  stagexl: any
